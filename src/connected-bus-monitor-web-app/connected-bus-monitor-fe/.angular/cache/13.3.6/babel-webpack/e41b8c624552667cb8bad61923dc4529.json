@@ -1,1 +1,0 @@
-{"ast":null,"code":"export class Bus {\n  constructor(id, air_data //  name: string;\n  ) {\n    this.id = id;\n    this.air_data = air_data;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

@@ -1,1 +1,0 @@
-{"ast":null,"code":"export class AirQuality {\n  constructor(id, date, temperature, humidity, co2, air_quality) {\n    this.id = id;\n    this.date = date;\n    this.temperature = temperature;\n    this.humidity = humidity;\n    this.co2 = co2;\n    this.air_quality = air_quality;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}
